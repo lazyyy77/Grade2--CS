@@ -1,0 +1,7 @@
+STU1
+STU2 Course4 4 Course2 1
+STU3 Course2 3 Course1 2 Course3 3
+STU4 Course1 2
+stud6 cour1 5 Course4 3
+StU5 Course2 4 cour1 4
+stU7 Course1 3 cour1 2
